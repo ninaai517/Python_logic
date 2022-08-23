@@ -1,0 +1,7 @@
+#Repetição com tam. fixo da Lista:
+
+L = [1, 2, 3]
+x = 0
+while x < 3:
+    print(L[x])
+    x += 1

@@ -5,5 +5,5 @@ while tabuada <= 10:
     while num <= 10:
         print(f"{tabuada} x {num} = {tabuada * num}")
         num += 1
-    print('\n')
+    print('')
     tabuada += 1

@@ -1,0 +1,10 @@
+Listas em python é um tipo de variável que armazena um conjunto de valores (dados)
+iguais ou diferentes.
+
+Sintaxe:
+
+L [ ] onde, L é o nome de uma lista qualquer e [ ] é o índice da lista.
+
+Povoando:
+L =  [2, 4, 5]
+print(Z[0])
